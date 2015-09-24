@@ -1,2 +1,2 @@
 # SDML
-System design and management languages - research
+System design and management languages 
